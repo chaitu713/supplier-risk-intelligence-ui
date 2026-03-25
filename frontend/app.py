@@ -28,7 +28,7 @@ from backend.ai_agent import ask_supplier_ai
 ############################################################
 
 st.set_page_config(
-    page_title="TCS Envirozone AI 4.0 — Supplier Intelligence",
+    page_title="Responsible Sourcing & Supplier Intelligence",
     layout="wide",
     initial_sidebar_state="expanded"
 )
