@@ -490,7 +490,7 @@ section[data-testid="stSidebar"]::-webkit-scrollbar-thumb {
     flex-direction: column;
     align-items: center !important;
     gap: 10px;
-    border-left: 15px solid transparent; !important /* for consistent width */
+    border-left: 30px solid transparent; !important /* for consistent width */
 }
 
 /* 🔥 KEY FIX: shrink label width */
