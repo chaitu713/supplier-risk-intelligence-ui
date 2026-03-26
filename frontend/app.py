@@ -715,7 +715,57 @@ html, body, .stApp {
     overflow-x: hidden !important;
 }
             
+            
+/* ───────── TRUE CENTER (PIXEL PERFECT) ───────── */
+            
+/* ───────── CENTER LABEL + VALUE INSIDE METRIC ───────── */
 
+/* Center the whole inner block (you already have this) */
+[data-testid="stMetric"] > div {
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 100%;
+    text-align: center;
+}
+
+/* 🔥 FIX: Label container alignment */
+[data-testid="stMetricLabel"] {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;   /* center horizontally */
+    align-items: center !important;
+    text-align: center !important;
+}
+
+/* 🔥 FIX: Actual label text */
+[data-testid="stMetricLabel"] p {
+    text-align: center !important;
+    width: 100%;
+}
+
+/* Value already centered but enforce it */
+[data-testid="stMetricValue"] {
+    text-align: center !important;
+    width: 100%;
+}
+
+[data-testid="stMetric"] {
+    position: relative !important;
+    height: 80px !important;
+    padding: 0 !important;
+}
+
+/* Target inner container */
+[data-testid="stMetric"] > div {
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 100%;
+    text-align: center;
+}
 
 </style>
 """, unsafe_allow_html=True)
