@@ -1491,7 +1491,9 @@ elif "⚠️" in page:
     )
 
     fig.update_layout(
-        yaxis=dict(autorange="reversed")
+        yaxis=dict(autorange="reversed"),
+        xaxis_title="Risk Score",
+        yaxis_title="Supplier"
     )
 
     fig.update_traces(
