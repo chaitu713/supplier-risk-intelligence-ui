@@ -714,6 +714,8 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stMarkdownContainer"]:last
 html, body, .stApp {
     overflow-x: hidden !important;
 }
+            
+
 
 </style>
 """, unsafe_allow_html=True)
@@ -1636,27 +1638,28 @@ elif "👾" in page:
 # FOOTER
 ############################################################
 
-st.markdown("""
-<div style="
-    margin-top: 40px;
-    padding: 18px 24px;
-    background: #FFFFFF;
-    border: 1px solid #E2E6F0;
-    border-radius: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-">
-  <div style="font-size:12.5px;color:#8A9ABB;">
-      <strong style="color:#1C2B4A;">TCS Envirozone<sup>AI</sup> 4.0</strong>
-      &nbsp;·&nbsp; Responsible Sourcing & Supplier Intelligence
-  </div>
-  <div style="display:flex;align-items:center;gap:16px;">
-    <span style="font-size:11.5px;color:#8A9ABB;">Built using Azure Document Intelligence & Gemini 2.5 Flash</span>
+if "👾" not in page:
+    st.markdown(""" 
     <div style="
-        background:#E4F5EE;border:1px solid #A5DFC5;border-radius:6px;
-        padding:4px 10px;font-size:11px;font-weight:600;color:#0D8F5E;
-    ">● Live</div>
-  </div>
-</div>
-""", unsafe_allow_html=True)
+        margin-top: 40px;
+        padding: 18px 24px;
+        background: #FFFFFF;
+        border: 1px solid #E2E6F0;
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    ">
+      <div style="font-size:12.5px;color:#8A9ABB;">
+          <strong style="color:#1C2B4A;">TCS Envirozone<sup>AI</sup> 4.0</strong>
+          &nbsp;·&nbsp; Responsible Sourcing & Supplier Intelligence
+      </div>
+      <div style="display:flex;align-items:center;gap:16px;">
+        <span style="font-size:11.5px;color:#8A9ABB;">Built using Azure Document Intelligence & Gemini 2.5 Flash</span>
+        <div style="
+            background:#E4F5EE;border:1px solid #A5DFC5;border-radius:6px;
+            padding:4px 10px;font-size:11px;font-weight:600;color:#0D8F5E;
+        ">● Live</div>
+      </div>
+    </div>
+    """, unsafe_allow_html=True)
