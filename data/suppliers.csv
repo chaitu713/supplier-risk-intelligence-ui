@@ -1,221 +1,241 @@
 supplier_id,supplier_name,country,category,onboarding_date,certification
-1,"Zavala, Smith and Jordan",India,Raw Material,2022-09-07,ISO14001
-2,"Knapp, Smith and Peters",Germany,Raw Material,2024-08-22,ISO14001
-3,"Sanchez, Mcbride and Lewis",China,Raw Material,2022-11-27,
-4,"Bright, Moore and Adkins",USA,Packaging,2023-08-16,ISO14001
-5,Munoz-Lopez,India,Raw Material,2026-01-02,
-6,"Hernandez, Buckley and Moore",China,Raw Material,2026-03-08,ISO9001
-7,"Munoz, Patton and Anderson",Germany,Packaging,2023-08-25,
-8,Marsh-Pugh,Germany,Raw Material,2025-10-06,ESG Certified
-9,Hess-Nelson,Vietnam,Chemicals,2023-05-05,ESG Certified
-10,"Alvarado, Figueroa and Shields",USA,Packaging,2023-11-22,
-11,Henderson Group,India,Raw Material,2025-09-02,ESG Certified
-12,Fox Inc,USA,Raw Material,2024-05-10,ESG Certified
-13,Schmidt and Sons,Vietnam,Electronics,2023-10-02,ISO9001
-14,Ramirez-Romero,Germany,Electronics,2022-08-31,
-15,Shields-Gonzalez,Vietnam,Electronics,2025-02-10,ESG Certified
-16,Thompson-Jones,China,Chemicals,2025-10-11,
-17,Sanchez Group,USA,Raw Material,2025-07-25,ISO9001
-18,Sanchez-Mcknight,India,Packaging,2023-05-08,ISO9001
-19,Dean PLC,India,Electronics,2022-09-26,ISO9001
-20,Smith Inc,China,Electronics,2023-03-20,
-21,"Mccann, Morris and Smith",India,Chemicals,2025-07-22,ESG Certified
-22,"Robinson, Donovan and Thompson",USA,Chemicals,2024-11-26,ISO9001
-23,Lloyd LLC,Germany,Electronics,2024-09-19,ISO9001
-24,Harris-Smith,China,Chemicals,2023-02-26,ISO9001
-25,Lynch-Patrick,Germany,Packaging,2022-12-23,ESG Certified
-26,Brewer-Maynard,Germany,Chemicals,2022-10-07,ESG Certified
-27,Butler LLC,Vietnam,Packaging,2023-12-10,ISO14001
-28,Phillips-Baker,Germany,Chemicals,2021-12-02,
-29,Ramos LLC,Germany,Raw Material,2021-06-19,ESG Certified
-30,Savage-Hopkins,USA,Raw Material,2023-03-16,ESG Certified
-31,"Long, Harris and Vance",Vietnam,Raw Material,2023-10-12,ISO14001
-32,Thompson-Gray,USA,Raw Material,2024-03-23,ISO14001
-33,Flores and Sons,India,Electronics,2025-08-14,ISO14001
-34,Torres-Wilson,Vietnam,Raw Material,2025-07-27,ISO14001
-35,"Tucker, Walker and Hernandez",Vietnam,Raw Material,2021-03-22,
-36,"Hopkins, Richardson and Jackson",China,Electronics,2021-06-04,ESG Certified
-37,Trevino Inc,India,Packaging,2025-01-29,ESG Certified
-38,Pittman-Williams,India,Raw Material,2025-08-23,ESG Certified
-39,"Boyd, Murray and Oconnell",India,Electronics,2023-04-16,
-40,"Morris, West and Brown",Vietnam,Packaging,2022-12-09,ISO9001
-41,Kline Ltd,China,Raw Material,2022-04-04,
-42,"Stone, Wood and Flores",Germany,Chemicals,2026-02-23,ISO14001
-43,Martinez PLC,India,Raw Material,2023-04-09,ESG Certified
-44,"Fuentes, Williams and Doyle",Vietnam,Electronics,2023-09-14,ESG Certified
-45,"Kaufman, Rose and Thomas",Vietnam,Raw Material,2021-03-20,ISO9001
-46,"Mcbride, Stark and Jones",China,Electronics,2026-01-30,ISO14001
-47,Wong Ltd,Vietnam,Chemicals,2025-03-25,ESG Certified
-48,"Bernard, Ramsey and Smith",Germany,Raw Material,2025-10-30,ESG Certified
-49,Jimenez-Marsh,India,Raw Material,2025-09-05,ISO9001
-50,"White, Martin and Warren",Germany,Packaging,2021-07-14,
-51,Dickerson Ltd,India,Electronics,2022-03-26,ESG Certified
-52,Barnes LLC,USA,Raw Material,2023-09-15,ESG Certified
-53,Moore Inc,USA,Packaging,2025-11-18,ISO9001
-54,"Maxwell, Morrison and Quinn",China,Raw Material,2026-02-20,ISO14001
-55,Garcia Ltd,Germany,Chemicals,2025-11-25,ISO9001
-56,"Stevens, Wilson and Barnes",Vietnam,Raw Material,2024-05-10,
-57,"Wood, Mason and Sims",India,Raw Material,2023-05-03,
-58,Johnson Inc,China,Raw Material,2025-09-23,ISO14001
-59,"Brooks, Pena and Navarro",China,Chemicals,2023-05-30,ISO9001
-60,Whitehead-Finley,USA,Raw Material,2021-04-23,ISO9001
-61,Ray-Underwood,Vietnam,Raw Material,2024-07-15,ESG Certified
-62,Acosta-Lee,China,Electronics,2025-06-10,ISO9001
-63,"Miller, Hamilton and Duncan",Vietnam,Raw Material,2022-05-02,ESG Certified
-64,"Richardson, Blanchard and Blake",USA,Packaging,2022-04-07,ISO9001
-65,Wallace-Good,Germany,Packaging,2025-04-18,ISO14001
-66,Harrell-Fleming,India,Electronics,2023-12-18,ISO14001
-67,"Jones, Wilson and Arias",India,Chemicals,2021-11-19,ISO14001
-68,Levy-Cooley,Vietnam,Chemicals,2021-04-08,ISO9001
-69,Adams Group,China,Raw Material,2024-11-08,ESG Certified
-70,"Martin, Rios and Summers",USA,Raw Material,2024-01-23,ISO9001
-71,Vance-Berry,India,Electronics,2021-07-09,ESG Certified
-72,Sparks-Horne,Germany,Chemicals,2024-11-23,ISO9001
-73,Burgess Group,USA,Raw Material,2024-11-30,ISO14001
-74,Holloway Group,India,Chemicals,2024-10-14,ISO9001
-75,Clay LLC,Vietnam,Packaging,2025-11-05,
-76,Gonzalez Inc,USA,Chemicals,2024-12-30,ISO9001
-77,Allen-Wood,China,Electronics,2021-08-06,
-78,Butler Group,China,Electronics,2023-05-11,ESG Certified
-79,Allen PLC,China,Electronics,2024-07-29,ISO9001
-80,"Franklin, Clark and Jordan",Vietnam,Raw Material,2023-02-19,
-81,Shepard-Cook,Vietnam,Chemicals,2022-03-25,ISO14001
-82,Schmidt LLC,USA,Chemicals,2023-12-22,
-83,"Bailey, Wilson and Reed",Vietnam,Chemicals,2022-01-29,
-84,Brown-Avila,China,Packaging,2024-03-28,ESG Certified
-85,Rodriguez PLC,China,Electronics,2023-05-08,ISO9001
-86,Davis-Miller,China,Packaging,2023-08-18,ISO9001
-87,Price-Howard,USA,Packaging,2024-07-11,ISO14001
-88,Brown-Sullivan,India,Raw Material,2021-09-02,
-89,Evans Ltd,Germany,Packaging,2021-04-28,ISO9001
-90,Lynn-Smith,India,Packaging,2024-04-04,
-91,Wells Inc,Vietnam,Raw Material,2023-05-06,ISO14001
-92,Curtis Group,Vietnam,Chemicals,2022-03-30,ISO9001
-93,Olsen Group,Vietnam,Chemicals,2021-11-14,ISO14001
-94,"Harris, Payne and Briggs",China,Packaging,2022-05-12,ISO9001
-95,Marquez-Carroll,Vietnam,Packaging,2021-11-23,ISO14001
-96,Rollins and Sons,Vietnam,Packaging,2024-03-23,ISO14001
-97,Scott LLC,India,Raw Material,2025-10-23,ISO14001
-98,Barnett LLC,China,Chemicals,2025-07-12,ISO9001
-99,"Torres, Schwartz and Martin",USA,Packaging,2024-06-13,ISO9001
-100,"Meyer, Frazier and Nichols",Germany,Electronics,2024-11-29,ESG Certified
-101,"Shaffer, Myers and Wagner",Germany,Electronics,2025-10-06,ISO9001
-102,Hughes-Martinez,USA,Packaging,2025-04-04,
-103,"Anderson, Mann and Lin",India,Raw Material,2023-07-09,ESG Certified
-104,"Ali, Montgomery and Perry",China,Raw Material,2022-05-10,ISO9001
-105,Cline PLC,Vietnam,Electronics,2022-12-15,ISO14001
-106,Hernandez PLC,China,Packaging,2022-12-06,
-107,Davis Inc,Vietnam,Raw Material,2023-08-05,ESG Certified
-108,"Cohen, Ford and Garza",Germany,Electronics,2024-10-18,
-109,Green-Thompson,India,Raw Material,2024-10-11,
-110,"Gonzales, Boone and Brown",Vietnam,Electronics,2022-05-07,ISO9001
-111,"Taylor, Lopez and Mendez",China,Chemicals,2021-05-27,ISO9001
-112,Campbell and Sons,Germany,Packaging,2024-03-30,ISO14001
-113,Bowman and Sons,China,Chemicals,2021-06-28,ESG Certified
-114,Smith-Norton,Vietnam,Chemicals,2022-11-21,ISO14001
-115,"Butler, Marks and Smith",Vietnam,Raw Material,2022-08-22,ESG Certified
-116,Mcbride Inc,Germany,Raw Material,2021-09-12,ISO9001
-117,Boyd Inc,Germany,Electronics,2026-01-03,ISO14001
-118,Thomas Inc,India,Raw Material,2021-04-01,ISO9001
-119,Walker Inc,China,Chemicals,2022-04-15,ESG Certified
-120,"Mcintosh, Castro and Petersen",USA,Electronics,2024-07-13,
-121,"Lewis, Williams and Miller",India,Chemicals,2023-01-05,
-122,Klein Inc,Germany,Raw Material,2023-04-18,
-123,Marquez-Parker,India,Packaging,2025-02-08,ISO9001
-124,Curry LLC,India,Chemicals,2021-10-18,
-125,"Greer, Hawkins and Walton",Vietnam,Chemicals,2022-05-06,ISO9001
-126,Jones LLC,China,Raw Material,2025-05-17,ISO14001
-127,Kim-Cook,India,Chemicals,2021-12-20,
-128,Cunningham Group,Vietnam,Raw Material,2025-08-31,ISO14001
-129,Mcdonald Ltd,Germany,Chemicals,2023-07-28,
-130,Webb and Sons,USA,Electronics,2022-09-15,ESG Certified
-131,"Townsend, Martin and Moses",China,Raw Material,2023-05-11,ISO14001
-132,"White, Miller and Mckay",Vietnam,Electronics,2025-07-17,ESG Certified
-133,"Reed, Conner and Cook",Vietnam,Electronics,2021-05-01,ISO9001
-134,Morales Ltd,USA,Packaging,2022-08-07,ESG Certified
-135,"Whitaker, Nguyen and Rogers",Germany,Electronics,2023-09-06,ESG Certified
-136,"Miller, Brown and Mcclure",Vietnam,Packaging,2023-02-25,ISO9001
-137,"Kent, Lopez and Lee",Germany,Chemicals,2025-04-18,
-138,Hill-Conway,USA,Raw Material,2025-05-01,
-139,"Morrow, Frazier and Parker",Germany,Chemicals,2026-03-01,ISO9001
-140,Phillips-Guzman,India,Chemicals,2025-05-13,ISO14001
-141,Willis-Smith,Germany,Chemicals,2022-05-02,
-142,Hill PLC,Vietnam,Raw Material,2022-10-04,
-143,Taylor Ltd,China,Chemicals,2025-10-04,ISO9001
-144,Nelson PLC,Vietnam,Electronics,2023-03-12,
-145,Barton-Hicks,Vietnam,Packaging,2021-11-11,ISO14001
-146,Bowers-Melton,Germany,Raw Material,2022-01-10,ISO14001
-147,Mccann Ltd,Vietnam,Packaging,2025-11-15,ESG Certified
-148,"Alvarez, Stephens and Kelley",China,Chemicals,2023-10-29,ESG Certified
-149,"Dunlap, Lee and Blevins",China,Chemicals,2022-11-19,ISO14001
-150,Jones-Johnson,Vietnam,Packaging,2023-04-03,
-151,Hobbs PLC,USA,Raw Material,2022-07-28,ESG Certified
-152,"Owens, Myers and Lambert",India,Chemicals,2024-09-24,ISO14001
-153,"Warren, Williams and Parrish",Vietnam,Raw Material,2025-04-15,
-154,Garcia-Baker,USA,Electronics,2024-12-04,
-155,"Gross, Walsh and Khan",India,Electronics,2023-09-27,ESG Certified
-156,"Blackburn, Whitehead and Sutton",China,Packaging,2023-06-11,ESG Certified
-157,Warner Inc,Germany,Chemicals,2024-04-06,ESG Certified
-158,Nelson-Cuevas,China,Raw Material,2024-09-06,ISO14001
-159,Hudson-Page,China,Packaging,2025-06-06,ISO14001
-160,"Mitchell, Rodriguez and Schmitt",Vietnam,Packaging,2024-07-12,ISO9001
-161,Garrison-Bennett,Germany,Raw Material,2023-01-19,ISO14001
-162,"Barnett, Bradley and Webb",Vietnam,Chemicals,2025-08-10,ESG Certified
-163,Robinson LLC,China,Chemicals,2025-07-28,ESG Certified
-164,Bennett-Fowler,Germany,Chemicals,2024-05-23,ESG Certified
-165,Walker-Mcgrath,USA,Packaging,2023-02-09,ESG Certified
-166,Fisher-Vasquez,USA,Chemicals,2022-12-12,ESG Certified
-167,Lyons PLC,China,Packaging,2021-04-15,ISO9001
-168,"Schwartz, Mejia and Richardson",Vietnam,Chemicals,2021-11-13,ISO14001
-169,"Lawson, Leblanc and Maynard",China,Raw Material,2025-12-05,
-170,Williams-Thompson,USA,Electronics,2023-09-02,ISO14001
-171,"Lyons, Diaz and Baker",China,Raw Material,2025-02-18,
-172,Brown-Carroll,China,Chemicals,2022-02-04,ISO14001
-173,"Anderson, Robinson and Gillespie",Vietnam,Packaging,2022-09-05,
-174,"Lambert, Morrow and Martin",India,Raw Material,2022-02-14,ESG Certified
-175,"Dawson, Cooper and Smith",Germany,Chemicals,2023-01-30,
-176,Smith-Santos,USA,Packaging,2025-12-16,ESG Certified
-177,White-Rich,India,Electronics,2023-12-06,ISO9001
-178,"Owen, Cobb and Young",China,Chemicals,2024-12-09,ISO9001
-179,Dickerson Group,India,Raw Material,2021-09-21,ISO9001
-180,Cooper Ltd,Germany,Packaging,2023-12-20,ISO14001
-181,"Lewis, Robinson and Martinez",Vietnam,Packaging,2023-01-13,ISO9001
-182,James Inc,Vietnam,Electronics,2021-06-29,ISO14001
-183,"Schneider, Miller and Thompson",Vietnam,Electronics,2025-02-18,ISO9001
-184,Baldwin PLC,Vietnam,Chemicals,2024-06-14,
-185,Serrano and Sons,Vietnam,Chemicals,2021-08-13,ISO14001
-186,Madden-Howard,India,Packaging,2024-06-21,ISO14001
-187,Gonzalez-Dominguez,Vietnam,Raw Material,2023-07-16,ISO9001
-188,Holmes-Hall,Vietnam,Chemicals,2022-04-09,ISO14001
-189,"Mitchell, Roy and Moore",China,Packaging,2023-01-17,ISO14001
-190,Harris-Bennett,USA,Packaging,2023-05-10,ISO14001
-191,"Harris, Jackson and Black",Germany,Raw Material,2022-04-13,ESG Certified
-192,"Friedman, Mcbride and Welch",Germany,Electronics,2022-09-29,ISO9001
-193,"Barnett, Santiago and Williams",USA,Raw Material,2026-01-13,
-194,"Hill, James and Hutchinson",Germany,Raw Material,2025-10-10,ISO9001
-195,"Cunningham, Gonzalez and Mills",Vietnam,Raw Material,2022-02-19,
-196,"Roberts, Woods and Morgan",India,Electronics,2022-08-06,ISO14001
-197,Dyer Group,China,Chemicals,2022-05-22,
-198,Hill LLC,India,Chemicals,2025-05-01,
-199,"Mills, Shaw and Gamble",Germany,Electronics,2021-05-22,ISO9001
-200,"Mason, Holmes and Munoz",Vietnam,Raw Material,2026-01-29,
-201,Nova Industrial Components,India,Electronics,,ISO9001
-202,Baltic Raw Materials Ltd,Germany,Raw Material,,ISO14001
-203,Pacific Industrial Supply,USA,Chemicals,,ESG Certified
-204,Shenzhen Precision Metals,China,Raw Material,,ISO9001
-205,Alpine Packaging Solutions,Switzerland,Packaging,,ESG Certified
-206,Orion Electrical Components,Vietnam,Electronics,,ISO14001
-207,Delta Industrial Plastics,USA,Packaging,,ISO9001
-208,Nordic Chemical Industries,Sweden,Chemicals,,ESG Certified
-209,Titan Mechanical Systems,Germany,Raw Material,,ISO9001
-210,Quantum Industrial Parts,India,Electronics,,ISO14001
-211,Atlas Industrial Fasteners,USA,Mechanical,,ISO9001
-212,GreenField Raw Resources,Canada,Raw Material,,ISO14001
-213,Eastern Tech Components,South Korea,Electronics,,ISO9001
-214,Metro Chemical Processing,Singapore,Chemicals,,ESG Certified
-215,BluePeak Packaging Ltd,UK,Packaging,,ISO14001
-216,Arctic Metal Works,Norway,Raw Material,,ISO9001
-217,Sunrise Electrical Systems,India,Electronics,,ISO14001
-218,Global Polymer Industries,USA,Chemicals,,ESG Certified
-219,EuroSteel Mechanical Group,Germany,Raw Material,,ISO9001
-220,Pacific Eco Packaging,Australia,Packaging,,ESG Certified
+1,AgroPure Corporation,India,Food Ingredients,07-09-2022,ISO22000
+2,FlexiWrap Corporation,Germany,Packaging,22-08-2024,FSC Certified
+3,AgroPure Pvt Ltd,China,Food Ingredients,27-11-2022,FSSAI Certified
+4,CleanHome Co.,USA,Household Products,16-08-2023,EcoLabel Certified
+5,PureNest Ltd,India,Household Products,02-01-2026,ISO14001
+6,NutriHarvest Corporation,China,Food Ingredients,08-03-2026,HACCP
+7,PackRight Inc,Germany,Packaging,25-08-2023,FSC Certified
+8,FarmSource Inc,Germany,Food Ingredients,06-10-2025,FSSAI Certified
+9,BioBeauty Pvt Ltd,Vietnam,Personal Care,05-05-2023,ISO9001
+10,ClearDrop Inc,USA,Beverages,22-11-2023,ISO22000
+11,PureCrop Inc,India,Food Ingredients,02-09-2025,ISO22000
+12,CarePlus GmbH,USA,Personal Care,10-05-2024,GMP Certified
+13,PureSip Corporation,Vietnam,Beverages,02-10-2023,FDA Approved
+14,NatureYield Corporation,Germany,Food Ingredients,31-08-2022,FSSAI Certified
+15,GreenSeal GmbH,Vietnam,Packaging,10-02-2025,ISO14001
+16,EcoClean Corporation,China,Household Products,11-10-2025,ISO9001
+17,FarmSource GmbH,USA,Food Ingredients,25-07-2025,ISO22000
+18,BrightLiving Ltd,India,Household Products,08-05-2023,EcoLabel Certified
+19,NatureTouch Inc,India,Personal Care,26-09-2022,ISO9001
+20,SparkClean Inc,China,Household Products,20-03-2023,ISO14001
+21,PureSip Ltd,India,Beverages,22-07-2025,ISO22000
+22,VitalFoods Co.,USA,Food Ingredients,26-11-2024,HACCP
+23,GreenHome Co.,Germany,Household Products,19-09-2024,ISO9001
+24,FreshOrigin Inc,China,Food Ingredients,26-02-2023,HACCP
+25,NatureTouch GmbH,Germany,Personal Care,23-12-2022,ISO9001
+26,BioWrap Pvt Ltd,Germany,Packaging,07-10-2022,ISO14001
+27,EcoClean Ltd,Vietnam,Household Products,10-12-2023,EcoLabel Certified
+28,BrightLiving GmbH,Germany,Household Products,02-12-2021,ISO14001
+29,PureSip Pvt Ltd,Germany,Beverages,19-06-2021,ISO22000
+30,GoldenField Pvt Ltd,USA,Food Ingredients,16-03-2023,FSSAI Certified
+31,BioBeauty Ltd,Vietnam,Personal Care,12-10-2023,ISO9001
+32,DermaWell Co.,USA,Personal Care,23-03-2024,GMP Certified
+33,SkinEssence GmbH,India,Personal Care,14-08-2025,ISO22716
+34,FlexiWrap Inc,Vietnam,Packaging,27-07-2025,ISO14001
+35,ClearPack Ltd,Vietnam,Packaging,22-03-2021,ISO14001
+36,PureCrop Pvt Ltd,China,Food Ingredients,04-06-2021,ISO22000
+37,EcoClean Inc,India,Household Products,29-01-2025,EcoLabel Certified
+38,ClearPack Co.,India,Packaging,23-08-2025,FSC Certified
+39,DermaWell Pvt Ltd,India,Personal Care,16-04-2023,GMP Certified
+40,RefreshCo GmbH,Vietnam,Beverages,09-12-2022,FDA Approved
+41,AgroPure GmbH,China,Food Ingredients,04-04-2022,ISO22000
+42,PackRight Co.,Germany,Packaging,23-02-2026,FSC Certified
+43,SustainPack GmbH,India,Packaging,09-04-2023,FSC Certified
+44,FreshNest Pvt Ltd,Vietnam,Household Products,14-09-2023,ISO9001
+45,SafePack GmbH,Vietnam,Packaging,20-03-2021,FSC Certified
+46,NutriHarvest GmbH,China,Food Ingredients,30-01-2026,HACCP
+47,BioBeauty Corporation,Vietnam,Personal Care,25-03-2025,ISO22716
+48,ClearDrop Corporation,Germany,Beverages,30-10-2025,ISO22000
+49,NatureYield GmbH,India,Food Ingredients,05-09-2025,FSSAI Certified
+50,NutriHarvest Pvt Ltd,Germany,Food Ingredients,14-07-2021,ISO22000
+51,PureSkin Co.,India,Personal Care,26-03-2022,ISO9001
+52,NatureYield Pvt Ltd,USA,Food Ingredients,15-09-2023,FSSAI Certified
+53,SafeHome Ltd,USA,Household Products,18-11-2025,ISO14001
+54,NatureTouch Corporation,China,Personal Care,20-02-2026,GMP Certified
+55,NatureYield Co.,Germany,Food Ingredients,25-11-2025,FSSAI Certified
+56,BioWrap Inc,Vietnam,Packaging,10-05-2024,ISO9001
+57,PrimeWrap Inc,India,Packaging,03-05-2023,ISO14001
+58,VitalSip Pvt Ltd,China,Beverages,23-09-2025,ISO22000
+59,SustainPack Pvt Ltd,China,Packaging,30-05-2023,ISO9001
+60,HydraLife Co.,USA,Beverages,23-04-2021,ISO22000
+61,VitalSip GmbH,Vietnam,Beverages,15-07-2024,ISO22000
+62,CarePlus Pvt Ltd,China,Personal Care,10-06-2025,ISO22716
+63,BlueWave Corporation,Vietnam,Beverages,02-05-2022,FDA Approved
+64,PureSkin Pvt Ltd,USA,Personal Care,07-04-2022,ISO22716
+65,ClearDrop Co.,Germany,Beverages,18-04-2025,ISO22000
+66,HarvestEdge Inc,India,Food Ingredients,18-12-2023,ISO22000
+67,BioWrap GmbH,India,Packaging,19-11-2021,ISO9001
+68,SafePack Pvt Ltd,Vietnam,Packaging,08-04-2021,FSC Certified
+69,SustainPack Ltd,China,Packaging,08-11-2024,ISO9001
+70,DermaWell Ltd,USA,Personal Care,23-01-2024,GMP Certified
+71,PackRight Pvt Ltd,India,Packaging,09-07-2021,FSC Certified
+72,FreshFlow Inc,Germany,Beverages,23-11-2024,FDA Approved
+73,BioBeauty Inc,USA,Personal Care,30-11-2024,GMP Certified
+74,ClearPack Inc,India,Packaging,14-10-2024,ISO14001
+75,SkinEssence Corporation,Vietnam,Personal Care,05-11-2025,ISO9001
+76,FreshNest GmbH,USA,Household Products,30-12-2024,ISO9001
+77,GlowCare Co.,China,Personal Care,06-08-2021,GMP Certified
+78,FarmSource Co.,China,Food Ingredients,11-05-2023,ISO22000
+79,VitalSip Inc,China,Beverages,29-07-2024,HACCP
+80,VitalSip Ltd,Vietnam,Beverages,19-02-2023,FDA Approved
+81,NatureTouch Co.,Vietnam,Personal Care,25-03-2022,ISO9001
+82,PureCrop GmbH,USA,Food Ingredients,22-12-2023,HACCP
+83,TrueCare Corporation,Vietnam,Personal Care,29-01-2022,ISO22716
+84,VitalSip Corporation,China,Beverages,28-03-2024,ISO22000
+85,BlueWave Pvt Ltd,China,Beverages,08-05-2023,HACCP
+86,PureNest Corporation,China,Household Products,18-08-2023,ISO14001
+87,SoftGlow Ltd,USA,Personal Care,11-07-2024,ISO9001
+88,GreenGrain GmbH,India,Food Ingredients,02-09-2021,FSSAI Certified
+89,GreenHome Pvt Ltd,Germany,Household Products,28-04-2021,ISO14001
+90,UltraPack Corporation,India,Packaging,04-04-2024,ISO14001
+91,PureNest Co.,Vietnam,Household Products,06-05-2023,EcoLabel Certified
+92,TrueCare Inc,Vietnam,Personal Care,30-03-2022,GMP Certified
+93,GreenHome Corporation,Vietnam,Household Products,14-11-2021,ISO14001
+94,HarvestEdge Ltd,China,Food Ingredients,12-05-2022,HACCP
+95,FreshNest Ltd,Vietnam,Household Products,23-11-2021,ISO14001
+96,PrimeWrap Co.,Vietnam,Packaging,23-03-2024,ISO9001
+97,ClearPack Corporation,India,Packaging,23-10-2025,FSC Certified
+98,GlowCare Inc,China,Personal Care,12-07-2025,GMP Certified
+99,SparkClean Co.,USA,Household Products,13-06-2024,ISO9001
+100,AquaPure GmbH,Germany,Beverages,29-11-2024,FDA Approved
+101,SoftGlow Co.,Germany,Personal Care,06-10-2025,ISO9001
+102,NatureTouch Pvt Ltd,USA,Personal Care,04-04-2025,GMP Certified
+103,UltraPack Inc,India,Packaging,09-07-2023,FSC Certified
+104,TrueCare Pvt Ltd,China,Personal Care,10-05-2022,ISO22716
+105,PureCrop Ltd,Vietnam,Food Ingredients,15-12-2022,ISO22000
+106,FlexiWrap Co.,China,Packaging,06-12-2022,ISO14001
+107,CrystalSpring Ltd,Vietnam,Beverages,05-08-2023,HACCP
+108,HarvestEdge Co.,Germany,Food Ingredients,18-10-2024,FSSAI Certified
+109,SustainPack Corporation,India,Packaging,11-10-2024,ISO9001
+110,CrystalSpring Pvt Ltd,Vietnam,Beverages,07-05-2022,HACCP
+111,PureSkin GmbH,China,Personal Care,27-05-2021,GMP Certified
+112,SafePack Ltd,Germany,Packaging,30-03-2024,ISO14001
+113,TrueCare GmbH,China,Personal Care,28-06-2021,ISO22716
+114,HarvestEdge GmbH,Vietnam,Food Ingredients,21-11-2022,FSSAI Certified
+115,PureNest Inc,Vietnam,Household Products,22-08-2022,ISO14001
+116,UltraPack Ltd,Germany,Packaging,12-09-2021,FSC Certified
+117,AquaPure Co.,Germany,Beverages,03-01-2026,ISO22000
+118,TrueCare Co.,India,Personal Care,01-04-2021,GMP Certified
+119,PureSkin Inc,China,Personal Care,15-04-2022,ISO9001
+120,UltraPack Co.,USA,Packaging,13-07-2024,ISO14001
+121,BrightLiving Inc,India,Household Products,05-01-2023,ISO14001
+122,PureSip Inc,Germany,Beverages,18-04-2023,FDA Approved
+123,PackRight Ltd,India,Packaging,08-02-2025,ISO14001
+124,SafeHome Pvt Ltd,India,Household Products,18-10-2021,ISO9001
+125,BlueWave Inc,Vietnam,Beverages,06-05-2022,FDA Approved
+126,EcoPack Co.,China,Packaging,17-05-2025,ISO9001
+127,FreshAura Inc,India,Personal Care,20-12-2021,GMP Certified
+128,HydraLife GmbH,Vietnam,Beverages,31-08-2025,HACCP
+129,GlowCare Ltd,Germany,Personal Care,28-07-2023,GMP Certified
+130,FreshOrigin GmbH,USA,Food Ingredients,15-09-2022,HACCP
+131,FreshAura GmbH,China,Personal Care,11-05-2023,ISO9001
+132,GreenGrain Ltd,Vietnam,Food Ingredients,17-07-2025,FSSAI Certified
+133,NutriHarvest Ltd,Vietnam,Food Ingredients,01-05-2021,ISO22000
+134,EcoPack GmbH,USA,Packaging,07-08-2022,ISO14001
+135,DermaWell Inc,Germany,Personal Care,06-09-2023,GMP Certified
+136,GreenGrain Co.,Vietnam,Food Ingredients,25-02-2023,ISO22000
+137,AquaPure Ltd,Germany,Beverages,18-04-2025,FDA Approved
+138,SafeHome GmbH,USA,Household Products,01-05-2025,EcoLabel Certified
+139,RefreshCo Inc,Germany,Beverages,01-03-2026,ISO22000
+140,CleanHome GmbH,India,Household Products,13-05-2025,ISO14001
+141,AgroPure Ltd,Germany,Food Ingredients,02-05-2022,FSSAI Certified
+142,CarePlus Ltd,Vietnam,Personal Care,04-10-2022,GMP Certified
+143,GoldenField Inc,China,Food Ingredients,04-10-2025,HACCP
+144,NutriHarvest Inc,Vietnam,Food Ingredients,12-03-2023,HACCP
+145,RefreshCo Co.,Vietnam,Beverages,11-11-2021,ISO22000
+146,HydraLife Inc,Germany,Beverages,10-01-2022,FDA Approved
+147,VitalFoods Pvt Ltd,Vietnam,Food Ingredients,15-11-2025,HACCP
+148,SparkClean Ltd,China,Household Products,29-10-2023,EcoLabel Certified
+149,FreshAura Ltd,China,Personal Care,19-11-2022,ISO9001
+150,GreenGrain Corporation,Vietnam,Food Ingredients,03-04-2023,FSSAI Certified
+151,CoolStream GmbH,USA,Beverages,28-07-2022,FDA Approved
+152,GreenSeal Pvt Ltd,India,Packaging,24-09-2024,FSC Certified
+153,SafeHome Corporation,Vietnam,Household Products,15-04-2025,EcoLabel Certified
+154,BioBeauty GmbH,USA,Personal Care,04-12-2024,ISO9001
+155,PureNest GmbH,India,Household Products,27-09-2023,EcoLabel Certified
+156,ClearPack GmbH,China,Packaging,11-06-2023,ISO9001
+157,CoolStream Corporation,Germany,Beverages,06-04-2024,FDA Approved
+158,UltraPack Pvt Ltd,China,Packaging,06-09-2024,ISO14001
+159,FreshFlow GmbH,China,Beverages,06-06-2025,HACCP
+160,VitalFoods Corporation,Vietnam,Food Ingredients,12-07-2024,FSSAI Certified
+161,FreshNest Corporation,Germany,Household Products,19-01-2023,ISO9001
+162,AquaPure Pvt Ltd,Vietnam,Beverages,10-08-2025,HACCP
+163,CrystalSpring GmbH,China,Beverages,28-07-2025,FDA Approved
+164,FreshAura Corporation,Germany,Personal Care,23-05-2024,ISO22716
+165,NatureYield Ltd,USA,Food Ingredients,09-02-2023,FSSAI Certified
+166,CoolStream Inc,USA,Beverages,12-12-2022,HACCP
+167,HomeGuard Pvt Ltd,China,Household Products,15-04-2021,EcoLabel Certified
+168,RefreshCo Corporation,Vietnam,Beverages,13-11-2021,HACCP
+169,FlexiWrap Ltd,China,Packaging,05-12-2025,FSC Certified
+170,GreenHome Inc,USA,Household Products,02-09-2023,ISO14001
+171,GreenSeal Corporation,China,Packaging,18-02-2025,ISO14001
+172,AgroPure Co.,China,Food Ingredients,04-02-2022,ISO22000
+173,CrystalSpring Corporation,Vietnam,Beverages,05-09-2022,ISO22000
+174,BioWrap Co.,India,Packaging,14-02-2022,FSC Certified
+175,CarePlus Corporation,Germany,Personal Care,30-01-2023,GMP Certified
+176,FarmSource Pvt Ltd,USA,Food Ingredients,16-12-2025,HACCP
+177,BrightLiving Corporation,India,Household Products,06-12-2023,ISO14001
+178,FreshFlow Corporation,China,Beverages,09-12-2024,ISO22000
+179,UltraHome Ltd,India,Household Products,21-09-2021,ISO14001
+180,RefreshCo Pvt Ltd,Germany,Beverages,20-12-2023,ISO22000
+181,CoolStream Pvt Ltd,Vietnam,Beverages,13-01-2023,FDA Approved
+182,PrimeWrap Corporation,Vietnam,Packaging,29-06-2021,ISO14001
+183,SafePack Corporation,Vietnam,Packaging,18-02-2025,ISO14001
+184,SkinEssence Ltd,Vietnam,Personal Care,14-06-2024,ISO22716
+185,CrystalSpring Co.,Vietnam,Beverages,13-08-2021,HACCP
+186,ClearDrop Pvt Ltd,India,Beverages,21-06-2024,ISO22000
+187,PrimeWrap Ltd,Vietnam,Packaging,16-07-2023,ISO9001
+188,EcoPack Ltd,Vietnam,Packaging,09-04-2022,ISO9001
+189,BrightLiving Pvt Ltd,China,Household Products,17-01-2023,ISO9001
+190,SafePack Co.,USA,Packaging,10-05-2023,FSC Certified
+191,SkinEssence Co.,Germany,Personal Care,13-04-2022,ISO9001
+192,ClearPack Pvt Ltd,Germany,Packaging,29-09-2022,ISO14001
+193,VitalFoods GmbH,USA,Food Ingredients,13-01-2026,FSSAI Certified
+194,FreshAura Co.,Germany,Personal Care,10-10-2025,ISO9001
+195,PureNest Pvt Ltd,Vietnam,Household Products,19-02-2022,EcoLabel Certified
+196,EcoClean GmbH,India,Household Products,06-08-2022,ISO14001
+197,FreshFlow Pvt Ltd,China,Beverages,22-05-2022,ISO22000
+198,BlueWave Co.,India,Beverages,01-05-2025,FDA Approved
+199,CleanHome Inc,Germany,Household Products,22-05-2021,ISO9001
+200,HomeGuard Corporation,Vietnam,Household Products,29-01-2026,ISO9001
+201,Vietnam Supply Co 5038,Vietnam,Packaging,,ISO14001
+202,Vietnam Supply Co 7007,Vietnam,Personal Care,,GMP Certified
+203,China Supply Co 3373,China,Food Ingredients,,ISO22000
+204,Shakti Consumer Goods Ltd,India,Household Products,,FDA Approved
+205,Aarav Ingredients Pvt Ltd,India,Personal Care,,FSC Certified
+206,Vietnam Supply Co 3279,Vietnam,Beverages,,FSSAI Certified
+207,BlueRiver Packaging Co,USA,Beverages,,EcoLabel Certified
+208,Krishna Naturals,India,Personal Care,,GMP Certified
+209,Triveni Agro Pvt Ltd,India,Food Ingredients,,ISO9001
+210,RheinAgro GmbH,Germany,Household Products,,FSC Certified
+211,Vietnam Supply Co 7028,Vietnam,Food Ingredients,,FSSAI Certified
+212,Vietnam Supply Co 2296,Vietnam,Packaging,,FSSAI Certified
+213,Organic India Supplies,India,Food Ingredients,,ISO22716
+214,China Supply Co 5721,China,Household Products,,HACCP
+215,NaturWerk Materials GmbH,Germany,Personal Care,,ISO22716
+216,TrueHarvest Co,USA,Packaging,,FDA Approved
+217,Vietnam Supply Co 2740,Vietnam,Personal Care,,ISO22716
+218,China Supply Co 4315,China,Packaging,,ISO14001
+219,Vietnam Supply Co 6688,Vietnam,Personal Care,,ISO14001
+220,AgriCore USA Inc,USA,Beverages,,FSSAI Certified
+221,Cargill Food Ingredients India Pvt Ltd,India,Beverages,,EcoLabel Certified
+222,DS Smith Packaging Solutions,Germany,Beverages,,ISO22716
+223,Ingredion Incorporated,Vietnam,Beverages,,ISO22716
+224,Amcor Flexibles GmbH,Germany,Food Ingredients,,FSSAI Certified
+225,Tate & Lyle Ingredients Americas LLC,Vietnam,Packaging,,ISO14001
+226,Berry Global Packaging Inc,China,Food Ingredients,,ISO22000
+227,Mondi Consumer Packaging GmbH,China,Household Products,,FDA Approved
+228,Olam Food Ingredients Pvt Ltd,Vietnam,Packaging,,FSC Certified
+229,Wilmar International Trading Ltd,China,Household Products,,ISO9001
+230,International Flavors & Fragrances Inc,China,Personal Care,,FDA Approved
+231,Nestlé Ingredient Solutions Pvt Ltd,Vietnam,Household Products,,FSSAI Certified
+232,PepsiCo Supply Chain Services,Vietnam,Packaging,,ISO14001
+233,Unilever Raw Materials GmbH,China,Personal Care,,ISO9001
+234,Dabur India Procurement Ltd,India,Beverages,,EcoLabel Certified
+235,Britannia Packaging Systems,USA,Household Products,,HACCP
+236,ITC Agro Sourcing Division,Vietnam,Food Ingredients,,HACCP
+237,Mondelez Global Ingredients,China,Packaging,,ISO9001
+238,Parle Products Supply Chain,USA,Personal Care,,ISO9001
+239,Marico Consumer Goods Sourcing,India,Personal Care,,ISO9001
+240,Godrej Food Ingredients Ltd,China,Personal Care,,ISO22000

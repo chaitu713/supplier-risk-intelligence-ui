@@ -13,7 +13,7 @@ def extract_document(blob_url):
 
     poller = client.begin_analyze_document_from_url(
         "prebuilt-document",
-        blob_url
+        document_url=blob_url
     )
 
     result = poller.result()

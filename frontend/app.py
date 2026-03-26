@@ -697,6 +697,24 @@ div[data-testid="stChatMessage"]:has(div[data-testid="stMarkdownContainer"]:last
     padding: 4px;
 }
 
+            /* ───────── REMOVE ALL SCROLLBARS ───────── */
+
+/* Chrome, Edge, Safari */
+::-webkit-scrollbar {
+    width: 0px !important;
+    height: 0px !important;
+}
+
+/* Firefox */
+* {
+    scrollbar-width: none !important;
+}
+
+/* Prevent horizontal scroll */
+html, body, .stApp {
+    overflow-x: hidden !important;
+}
+
 </style>
 """, unsafe_allow_html=True)
 
@@ -1268,7 +1286,7 @@ elif "🔎" in page:
 
         return html
 
-    st.markdown(render_table(df.head(50)), unsafe_allow_html=True)
+    st.markdown(render_table(df.head(100)), unsafe_allow_html=True)
 
 ############################################################
 # ── PAGE: OVERVIEW DASHBOARD ──────────────────────────────
@@ -1402,7 +1420,7 @@ elif "⚠️" in page:
     with col1:
         fig = px.histogram(
             x=df["risk_score"],
-            nbins=20,
+            nbins=7,
             title="📊 Risk Score Distribution"
         )
 
