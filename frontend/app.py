@@ -873,7 +873,7 @@ with st.sidebar:
                     TCS Envirozone<sup style='font-size:10px;vertical-align:super;'>AI</sup> 4.0
                 </div>
                 <div style="font-family:'DM Sans',sans-serif;font-size:11.5px;color:#8A97B8;font-weight:500;line-height:1.3;margin-top:1px;">
-                    Responsible Sourcing
+                    Responsible Sourcing & Supplier Intelligence
                 </div>
             </div>
         </div>
