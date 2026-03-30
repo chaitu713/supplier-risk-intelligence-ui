@@ -1,5 +1,9 @@
 import pandas as pd
 import re
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJECT_ROOT / "data"
 
 ############################################################
 # DOCUMENT TYPE DETECTION
@@ -66,13 +70,13 @@ def append_suppliers(df):
 
     import pandas as pd
 
-    existing = pd.read_csv("data/suppliers.csv")
+    existing = pd.read_csv(DATA_DIR / "suppliers.csv")
 
     df = df[~df["supplier_id"].isin(existing["supplier_id"])]
 
     updated = pd.concat([existing, df], ignore_index=True)
 
-    updated.to_csv("data/suppliers.csv", index=False)
+    updated.to_csv(DATA_DIR / "suppliers.csv", index=False)
 
     return f"{len(df)} New Suppliers Added"
 
@@ -121,13 +125,13 @@ def append_esg(df):
 
     import pandas as pd
 
-    existing = pd.read_csv("data/esg_metrics.csv")
+    existing = pd.read_csv(DATA_DIR / "esg_metrics.csv")
 
     df = df[~df["supplier_id"].isin(existing["supplier_id"])]
 
     updated = pd.concat([existing, df], ignore_index=True)
 
-    updated.to_csv("data/esg_metrics.csv", index=False)
+    updated.to_csv(DATA_DIR / "esg_metrics.csv", index=False)
 
     return f"{len(df)} New ESG Records Added"
 
@@ -179,13 +183,13 @@ def append_transactions(df):
 
     import pandas as pd
 
-    existing = pd.read_csv("data/transactions.csv")
+    existing = pd.read_csv(DATA_DIR / "transactions.csv")
 
     df = df[~df["transaction_id"].isin(existing["transaction_id"])]
 
     updated = pd.concat([existing, df], ignore_index=True)
 
-    updated.to_csv("data/transactions.csv", index=False)
+    updated.to_csv(DATA_DIR / "transactions.csv", index=False)
 
     return f"{len(df)} New Transactions Added"
 

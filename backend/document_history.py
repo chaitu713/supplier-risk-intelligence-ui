@@ -1,7 +1,9 @@
 import pandas as pd
 from datetime import datetime
+from pathlib import Path
 
-HISTORY_FILE = "data/document_history.csv"
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+HISTORY_FILE = PROJECT_ROOT / "data" / "document_history.csv"
 
 
 def log_document(document_name, doc_type, records_added):
